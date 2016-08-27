@@ -1,4 +1,5 @@
 # ReactJS Bangkok 1.0.0
+<img src="reactbkk-logo.png" alt="React Bangkok Logo" width="100">
 
 First ReactJS Meetup in Bangkok
 
@@ -17,10 +18,10 @@ First ReactJS Meetup in Bangkok
 
 ## Sponsors
 
-- NextCover
-- Taskworld
-- Nextzy
-- สมาคมโปรแกรมเมอร์ไทย
-- คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย
-- Wongnai
-- SPRINT3r
+- **[NextCover](nextcover.co)**
+- **[Taskworld](taskworld.com)**
+- [Nextzy](https://nextzy.me/)
+- [สมาคมโปรแกรมเมอร์ไทย](http://thaiprogrammer.org/)
+- [คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย](www.eng.chula.ac.th)
+- [Wongnai](https://www.wongnai.com/)
+- [SPRINT3r](http://sprint3r.com/)
