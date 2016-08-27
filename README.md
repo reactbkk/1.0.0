@@ -14,3 +14,13 @@ First ReactJS Meetup in Bangkok
 | Universal JavaScript: The Future of Web Apps | เต้, ชาร์ป | [Code](https://github.com/reactbkk/reactjs-bangkok-universal) |
 | Higher-Order Components and Recompose | ไท | [Slides](./higher-order-components.pdf) |
 
+
+## Sponsors
+
+- NextCover
+- Taskworld
+- Nextzy
+- สมาคมโปรแกรมเมอร์ไทย
+- คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย
+- Wongnai
+- SPRINT3r
