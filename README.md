@@ -3,6 +3,7 @@
 
 First ReactJS Meetup in Bangkok
 
+[View on GitHub](https://github.com/reactbkk/1.0.0)
 
 ## Sessions
 
