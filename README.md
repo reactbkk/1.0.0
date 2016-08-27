@@ -12,4 +12,5 @@ First ReactJS Meetup in Bangkok
 | React Native: Game-changer for Mobile Development | ปันเจ, เฉิน | [Code](https://github.com/Ranatchai/react-native-bkk-example) [Slides](./react-native.pdf) |
 | Webpack: Empowering React to the Next Level | เทอร์โบ, เฉิน | [Code](https://github.com/turboza/reactbkk-webpack-example) |
 | Universal JavaScript: The Future of Web Apps | เต้, ชาร์ป | [Code](https://github.com/reactbkk/reactjs-bangkok-universal) |
-| Higher-Order Components and Recompose | ไท |
+| Higher-Order Components and Recompose | ไท | [Slides](./higher-order-components.pdf) |
+
