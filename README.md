@@ -19,8 +19,8 @@ First ReactJS Meetup in Bangkok
 
 ## Sponsors
 
-- **[NextCover](nextcover.co)**
-- **[Taskworld](taskworld.com)**
+- **[NextCover](https://nextcover.co)**
+- **[Taskworld](https://taskworld.com)**
 - [Nextzy](https://nextzy.me/)
 - [สมาคมโปรแกรมเมอร์ไทย](http://thaiprogrammer.org/)
 - [คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย](www.eng.chula.ac.th)
