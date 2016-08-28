@@ -33,6 +33,13 @@ h2 {
   line-height: 1.25em;
 }
 
+@media (max-width: 640px) {
+  th, td {
+    font-size: 0.8em;
+    line-height: 1.5em;
+  }
+}
+
 th {
   background: #2e2e2e;
 }
