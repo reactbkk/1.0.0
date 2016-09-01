@@ -26,6 +26,6 @@ First ReactJS Meetup in Bangkok
 - **[Taskworld](https://taskworld.com)**
 - [Nextzy](https://nextzy.me/)
 - [สมาคมโปรแกรมเมอร์ไทย](http://thaiprogrammer.org/)
-- [คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย](http://www.eng.chula.ac.th)
+- [ภาควิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย](http://www.cp.eng.chula.ac.th)
 - [Wongnai](https://www.wongnai.com/)
 - [SPRINT3r](http://sprint3r.com/)
